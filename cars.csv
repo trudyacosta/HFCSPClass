@@ -1,4 +1,4 @@
-Engine Information.Driveline,Engine Information.Transmission,Fuel Information.Fuel Type,Identification.Classification,Identification.ID,Identification.Make,Identification.Year,Engine Information.Engine Statistics.Horsepower,Engine Information.Engine Statistics.Torque
+drive,xmission,fuelType,classId,id,make,year,hp,torque
 All-wheel drive,6 Speed Automatic Select Shift,Gasoline,Automatic transmission,2009 Audi A3 3.2,Audi,2009,250,236
 Front-wheel drive,6 Speed Automatic Select Shift,Gasoline,Automatic transmission,2009 Audi A3 2.0 T AT,Audi,2009,200,207
 Front-wheel drive,6 Speed Manual,Gasoline,Manual transmission,2009 Audi A3 2.0 T,Audi,2009,200,207
